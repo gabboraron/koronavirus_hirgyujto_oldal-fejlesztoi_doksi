@@ -3,7 +3,7 @@
 
 *Az oldal a hivatalos koronavirus oldal működésbe helyezése előtt kb egy héttel már működött, azóta gyűjti a híreket*
 
-***Felhasználásához minden esetben a forrás megjelölése szükséges, pl: `Készült az http://awxyhe.web.elte.hu/koronavirus segítségével.` 
+***Felhasználásához minden esetben a forrás megjelölése szükséges, pl: `Készült az http://awxyhe.web.elte.hu/koronavirus segítségével.`*** 
 
 ****
 
