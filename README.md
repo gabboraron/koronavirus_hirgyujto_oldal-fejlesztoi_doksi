@@ -3,7 +3,7 @@
 
 *Az oldal a hivatalos koronavirus oldal működésbe helyezése előtt kb egy héttel már működött, azóta gyűjti a híreket*
 
-***Felhasználásához minden esetben a forrás megjelölése szükséges, pl: `Készült az http://awxyhe.web.elte.hu/koronavirus segítségével.` vagy a https://awxyhe.web.elte.hu/koronavirus/koronavirushu.png-en elérhető logo és a weboldalra muató link haználatával!***
+***Felhasználásához minden esetben a forrás megjelölése szükséges, pl: `Készült az http://awxyhe.web.elte.hu/koronavirus segítségével.` vagy a [logo](https://github.com/gabboraron/koronavirus_hirgyujto_oldal-fejlesztoi_doksi/tree/master/logo) és a weboldalra muató link haználatával!***
 
 pl:
 ```html
