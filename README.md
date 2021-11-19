@@ -57,3 +57,10 @@ print(html.unescape(currentNews["description"]))
 print(html.unescape(currentNews["link"]))
 print(requestpost.status_code)
 ```
+
+Az oldal hasonlóan frissíthető is:
+
+Teljes példa: [refreshDB.py](https://github.com/gabboraron/koronavirus_hirgyujto_oldal-fejlesztoi_doksi/blob/master/refreshDB.py)
+```Python
+requestpost = requests.post('https://awxyhe.web.elte.hu/koronavirus/updatesqldb.php')
+```
